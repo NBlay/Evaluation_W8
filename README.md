@@ -1,3 +1,5 @@
+Notes de rendu: normalement tout est fonctionnel, meme le ranger pour son attaque de base et la dague. 
+
 Ce projet a été codé sous le stress, et avec très peu de temps, par le stagiaire qui s'occupe d'ordinaire du café.
 Beaucoup de fautes s'y sont glissées, à vous de les corriger! Attention, vous pouvez (et devez) corriger les fautes, mais vous devez garder les noms des attributs et des méthodes. 
 
